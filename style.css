@@ -3505,3 +3505,18 @@ img.has-shadow {
     }
 }
 /*Pulse Button*/
+
+
+
+
+#particles-js {
+    background: rgba(15,15,10,0.9);
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    font: normal 16px Arial, Halvetica, sand-serif;
+    color: #0f0;
+}
